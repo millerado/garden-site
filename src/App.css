@@ -11,9 +11,6 @@ header {
   padding: 0 50px;
 }
 
-header h2 {
-}
-
 header nav {
   display: flex;
   text-align: center;
@@ -32,16 +29,38 @@ header nav div {
 .main-content {
   display: flex;
   flex-direction: column;
-  width: 90%;
+  width: 100%;
   margin: auto;
+  margin-bottom: 50px;
   text-align: center;
 }
 
+.picture {
+  background-size: cover;
+  height: 600px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.pic1 {
+  background-image: url('./images/IMG_0842.JPG');
+}
+
+.pic2 {
+  background-image: url('./images/IMG_2389.JPG');
+}
+
+.pic3 {
+  background-image: url('./images/IMG_2396.JPG');
+}
+
+.picture h1 {
+  font-size: 50px;
+}
+
 footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
   display: flex;
   flex-direction: column;
   text-align: center;
