@@ -1,6 +1,12 @@
-export default function Home() {
+import DisplayImage from '../compenets/DisplayImage';
+
+export default function Home({ image }) {
   return (
     <div>
+      {/* <DisplayImage image={image} text='Ranch Community Garden' /> */}
+      <div className='picture pic1'>
+        <h1>Ranch Community Garden</h1>
+      </div>
       <h2>Sign-up for 2023 plot renewals is OPEN (March 1 - April 9th)</h2>
       <h2>
         Returning gardeners from 2022 can now register in the "Plot Renewal"
