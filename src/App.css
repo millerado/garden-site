@@ -63,6 +63,20 @@ header nav div {
   font-size: 50px;
 }
 
+.text {
+  margin: 10px 100px;
+}
+
+.text h2,
+.text h3,
+.text p {
+  margin-bottom: 5px;
+}
+
+.text h2 {
+  margin-top: 20px;
+}
+
 footer {
   display: flex;
   flex-direction: column;
@@ -70,4 +84,5 @@ footer {
   background-color: rgb(39, 39, 39);
   color: white;
   padding: 20px 0;
+  line-height: 1.5;
 }
