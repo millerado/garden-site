@@ -60,17 +60,23 @@ header nav div {
 }
 
 .picture h1 {
-  font-size: 50px;
+  font-size: 70px;
+  -webkit-text-stroke: 2px black;
 }
 
 .text {
-  margin: 10px 100px;
+  margin: 10px 200px;
 }
 
 .text h2,
 .text h3,
 .text p {
   margin-bottom: 5px;
+}
+
+.loc-pic {
+  width: 75%;
+  margin-top: 10px;
 }
 
 .text h2 {
