@@ -1,3 +1,5 @@
+import pdf from '../images/RCG-Rules.pdf';
+
 export default function Info() {
   return (
     <div>
@@ -35,6 +37,11 @@ export default function Info() {
           Ranch Drive, Colorado Springs, CO 80918. Please make check payable to
           Ranch Community Garden.
         </p>
+        <h2>
+          <a href={pdf} target='_blank'>
+            Garden Rules
+          </a>
+        </h2>
       </div>
     </div>
   );
