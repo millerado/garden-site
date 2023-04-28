@@ -71,7 +71,18 @@ header nav div {
 .text h2,
 .text h3,
 .text p {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.link-box {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.new-plot-link {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .loc-pic {
