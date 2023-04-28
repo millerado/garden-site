@@ -37,7 +37,7 @@ export default function Info() {
           Ranch Community Garden.
         </p>
         <h2>
-          <a href={pdf} target='_blank'>
+          <a href={pdf} target='_blank' rel='noreferrer'>
             Garden Rules
           </a>
         </h2>

@@ -1,10 +1,8 @@
 import { Link } from 'react-router-dom';
-import DisplayImage from '../components/DisplayImage';
 
 export default function Home({ image }) {
   return (
     <div>
-      {/* <DisplayImage image={image} text='Ranch Community Garden' /> */}
       <div className='picture pic1'>
         <h1>Ranch Community Garden</h1>
       </div>
