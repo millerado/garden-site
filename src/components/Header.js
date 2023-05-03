@@ -21,7 +21,7 @@ export default function Header() {
           <div>New Plot Application</div>
         </Link>
         <Link
-          to='https://docs.google.com/forms/d/e/1FAIpQLSe08KfiU-qEYFEOcOGO6WfUzLOzLQNLyTrZZoOKeyBE56OOqQ/viewform?embedded=true&formkey=dFZYV2d2MWVrbUZpWW1ZaVUzWWxGTHc6MQ'
+          to='https://docs.google.com/forms/d/e/1FAIpQLSeVwCDTwc1SWgEgBwQvB6OlqKhfzTkOQmp3Rdk9v7jn3Q5Osg/viewform?formkey=dFFNZDRWN1E3dk00aUc2NkZVUTRkS1E6MA#gid=0'
           target='_blank'
         >
           <div>Returning Plot Reneweal</div>

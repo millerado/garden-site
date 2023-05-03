@@ -7,7 +7,7 @@ export default function Home({ image }) {
         <h1>Ranch Community Garden</h1>
       </div>
       <div className='text'>
-        <h2>Sign-up for is now open for the 2023 season</h2>
+        <h2>Sign-up is now open for the 2023 season</h2>
         <div className='link-box'>
           <Link
             to='https://docs.google.com/forms/d/e/1FAIpQLSe08KfiU-qEYFEOcOGO6WfUzLOzLQNLyTrZZoOKeyBE56OOqQ/viewform?embedded=true&formkey=dFZYV2d2MWVrbUZpWW1ZaVUzWWxGTHc6MQ'
