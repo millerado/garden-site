@@ -40,7 +40,7 @@ header nav div {
 
 .picture {
   background-size: cover;
-  height: 600px;
+  height: 500px;
   color: white;
   display: flex;
   flex-direction: column;
