@@ -74,6 +74,10 @@ header nav div {
   margin-bottom: 10px;
 }
 
+.text p {
+  font-size: 18px;
+}
+
 .link-box {
   width: 50%;
   margin: 0 auto;
