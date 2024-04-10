@@ -15,7 +15,7 @@ export default function Header() {
           <div>Contact</div>
         </Link>
         <Link
-          className='hidden'
+          className=''
           to='https://docs.google.com/forms/d/e/1FAIpQLSe08KfiU-qEYFEOcOGO6WfUzLOzLQNLyTrZZoOKeyBE56OOqQ/viewform?embedded=true&formkey=dFZYV2d2MWVrbUZpWW1ZaVUzWWxGTHc6MQ'
           target='_blank'
         >

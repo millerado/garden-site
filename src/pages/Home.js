@@ -8,22 +8,28 @@ export default function Home({ image }) {
       </div>
       <div className='text'>
         <div>
-          <h2>
-            The 2024 season plot renewal period will be from March 1st - April
-            7th
-          </h2>
+          <h2>The garden is now OPEN to all subscribers for the 2024 season</h2>
           <p>
-            Please sign up at{' '}
+            Please sign up for{' '}
             <Link
               className=''
               to='https://docs.google.com/forms/d/e/1FAIpQLSeVwCDTwc1SWgEgBwQvB6OlqKhfzTkOQmp3Rdk9v7jn3Q5Osg/viewform?formkey=dFFNZDRWN1E3dk00aUc2NkZVUTRkS1E6MA#gid=0'
               target='_blank'
             >
+              <span>New Garden Plots</span>
+            </Link>{' '}
+            or{' '}
+            <Link
+              to='https://docs.google.com/forms/d/e/1FAIpQLSe08KfiU-qEYFEOcOGO6WfUzLOzLQNLyTrZZoOKeyBE56OOqQ/viewform?embedded=true&formkey=dFZYV2d2MWVrbUZpWW1ZaVUzWWxGTHc6MQ'
+              target='_blank'
+            >
+              {' '}
               <span>Renew Your Plot</span>
             </Link>{' '}
-            during that time
+            from last year. We welcome new gardeners to join us this year to
+            build a vibrant community!
           </p>
-          <h3>New gardener sign-ups will begin on April 8th</h3>
+          {/* <h3>The garden is now OPEN to all subscribers for the 2024 season</h3> */}
           <br />
           <br />
           <div className='link-box hidden'>
