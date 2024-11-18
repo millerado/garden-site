@@ -8,8 +8,15 @@ export default function Home({ image }) {
       </div>
       <div className='text'>
         <div>
-          <h2>The garden is now OPEN to all subscribers for the 2024 season</h2>
           <p>
+            We will begin taking 2025 plot requests from returning gardeners on March 1st. 
+          </p>
+          <p>
+            New gardeners can begin signing up for plots on April 1st.
+          </p>
+          <h2 className='hidden'>The garden is now OPEN to all subscribers for the 2024 season</h2>
+          <p className='hidden
+          '>
             Please sign up for{' '}
             <Link
               className=''
